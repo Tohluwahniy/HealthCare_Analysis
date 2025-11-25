@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,Symptoms,Diagnosis,Medication,Glucose_Level,BP_Systolic,BP_Diastolic,Cholesterol,Visit_Date,Treatment_Outcome
+P1000,84,Female,Cough,Covid-19,Insulin,187,92,82,230,2023-07-06,Improving
+P1001,35,Male,Headache,Flu,Vitamin Supplements,128,95,110,247,2023-11-16,Recovered
+P1002,14,Female,Dizziness,Flu,Insulin,196,99,110,174,2023-07-12,Improving
+P1003,43,Female,Shortness of Breath,Flu,Antibiotics,168,133,72,176,2023-10-18,Recovered
+P1004,35,Male,Cough,Asthma,Paracetamol,119,171,112,202,2023-01-03,Recovered
+P1005,18,Female,Chest Pain,Asthma,Insulin,147,100,74,246,2023-06-04,Improving
+P1006,43,Female,Cough,Diabetes,Paracetamol,72,106,84,271,2023-08-30,Critical
+P1007,30,Male,Shortness of Breath,Covid-19,Antimalarial,186,95,102,222,2023-01-10,Critical
+P1008,9,Male,Fever,Asthma,Paracetamol,170,123,96,122,2023-11-06,Recovered
+P1009,50,Female,Nausea,Hypertension,Paracetamol,77,146,102,135,2023-07-13,Recovered
+P1010,8,Male,Dizziness,Covid-19,Antimalarial,115,98,100,274,2023-02-13,Critical
+P1011,12,Male,Shortness of Breath,Hypertension,Antibiotics,142,130,81,266,2023-03-28,Recovered
+P1012,54,Female,Cough,Diabetes,Vitamin Supplements,151,158,84,258,2023-09-29,Recovered
+P1013,16,Male,Shortness of Breath,Hypertension,Antibiotics,190,176,82,199,2024-01-01,Improving
+P1014,24,Female,Shortness of Breath,Asthma,Antibiotics,131,145,100,150,2023-06-28,Recovered
+P1015,59,Female,Cough,Typhoid,Inhaler,163,155,104,198,2023-01-07,Improving
+P1016,80,Male,Chest Pain,Asthma,Insulin,77,145,101,266,2023-04-26,Improving
+P1017,35,Male,Dizziness,Hypertension,Inhaler,76,105,116,126,2023-11-27,Recovered
+P1018,32,Female,Dizziness,Asthma,Paracetamol,77,158,115,178,2023-07-20,Critical
+P1019,4,Female,Fever,Diabetes,Vitamin Supplements,141,151,66,228,2023-05-23,Recovered
+P1020,74,Male,Shortness of Breath,Anemia,Inhaler,103,171,78,142,2023-04-23,Improving
+P1021,72,Male,Chest Pain,Hypertension,Paracetamol,179,164,101,266,2023-04-05,Critical
+P1022,56,Female,Headache,Anemia,Antibiotics,145,136,87,266,2023-06-16,Recovered
+P1023,60,Female,Nausea,Diabetes,Antibiotics,83,162,64,149,2023-03-25,Critical
+P1024,54,Female,Fever,Malaria,Insulin,187,162,76,199,2023-11-04,Improving
+P1025,27,Female,Cough,Asthma,Vitamin Supplements,146,143,115,130,2023-02-08,Recovered
+P1026,89,Female,Headache,Asthma,Insulin,122,110,63,168,2023-08-20,Improving
+P1027,71,Male,Fever,Diabetes,Inhaler,116,172,88,270,2023-08-30,Improving
+P1028,14,Male,Fatigue,Hypertension,Vitamin Supplements,90,94,116,273,2023-11-15,Recovered
+P1029,19,Female,Shortness of Breath,Asthma,Paracetamol,154,174,115,182,2023-10-26,Recovered
+P1030,78,Female,Fatigue,Typhoid,Paracetamol,179,157,68,125,2023-12-24,Recovered
+P1031,10,Male,Nausea,Malaria,Insulin,71,175,96,192,2023-12-22,Improving
+P1032,64,Male,Chest Pain,Anemia,Inhaler,109,100,85,270,2023-05-27,Critical
+P1033,37,Male,Nausea,Anemia,Vitamin Supplements,177,130,110,140,2023-07-24,Improving
+P1034,79,Female,Nausea,Malaria,Paracetamol,81,103,67,154,2023-11-23,Critical
+P1035,7,Male,Cough,Malaria,Antibiotics,82,93,96,159,2023-12-07,Recovered
+P1036,81,Male,Nausea,Malaria,Antimalarial,125,167,113,155,2023-12-15,Improving
+P1037,81,Male,Headache,Typhoid,Antibiotics,116,91,81,294,2023-07-27,Critical
+P1038,21,Male,Fever,Typhoid,Inhaler,159,142,76,237,2023-07-13,Critical
+P1039,60,Male,Nausea,Asthma,Vitamin Supplements,158,108,67,265,2023-12-10,Improving
+P1040,32,Female,Shortness of Breath,Diabetes,Antimalarial,100,140,65,167,2023-04-17,Recovered
+P1041,10,Male,Nausea,Flu,Antibiotics,145,161,61,278,2023-07-22,Critical
+P1042,2,Male,Headache,Covid-19,Antibiotics,89,125,69,218,2023-04-03,Critical
+P1043,72,Male,Shortness of Breath,Flu,Antibiotics,70,170,68,215,2023-05-02,Improving
+P1044,32,Male,Fatigue,Malaria,Vitamin Supplements,189,114,92,160,2023-10-10,Improving
+P1045,82,Male,Cough,Flu,Paracetamol,86,146,90,205,2023-01-26,Improving
+P1046,74,Female,Shortness of Breath,Anemia,Paracetamol,132,126,86,124,2023-10-26,Recovered
+P1047,8,Male,Chest Pain,Covid-19,Paracetamol,126,131,66,124,2023-12-05,Critical
+P1048,42,Male,Cough,Covid-19,Insulin,122,117,110,243,2023-06-04,Recovered
+P1049,47,Male,Fatigue,Flu,Antibiotics,117,108,92,164,2023-07-13,Recovered
+P1050,69,Male,Dizziness,Typhoid,Antimalarial,151,157,69,298,2023-08-12,Recovered
+P1051,49,Male,Chest Pain,Malaria,Vitamin Supplements,188,101,88,266,2023-04-19,Recovered
+P1052,5,Female,Cough,Diabetes,Vitamin Supplements,129,115,61,213,2023-05-29,Recovered
+P1053,28,Male,Chest Pain,Hypertension,Paracetamol,155,161,106,122,2023-06-14,Improving
+P1054,22,Male,Nausea,Typhoid,Insulin,148,98,75,140,2023-11-09,Improving
+P1055,84,Male,Headache,Asthma,Insulin,127,129,91,287,2023-07-28,Recovered
+P1056,20,Female,Dizziness,Asthma,Antibiotics,115,172,72,201,2023-02-08,Recovered
+P1057,11,Female,Cough,Diabetes,Vitamin Supplements,94,103,104,268,2023-04-01,Critical
+P1058,53,Male,Headache,Flu,Vitamin Supplements,142,161,60,188,2023-05-23,Recovered
+P1059,12,Female,Fatigue,Diabetes,Insulin,148,100,73,140,2023-11-08,Improving
+P1060,79,Female,Headache,Covid-19,Antimalarial,113,158,109,227,2023-02-16,Improving
+P1061,9,Female,Fatigue,Anemia,Inhaler,138,95,116,237,2023-05-29,Critical
+P1062,32,Male,Dizziness,Asthma,Vitamin Supplements,198,143,93,129,2023-04-19,Critical
+P1063,19,Male,Shortness of Breath,Covid-19,Antimalarial,130,171,98,180,2023-09-28,Recovered
+P1064,52,Male,Cough,Typhoid,Paracetamol,175,163,114,242,2023-09-06,Recovered
+P1065,44,Male,Cough,Malaria,Antibiotics,175,136,99,281,2023-09-19,Critical
+P1066,53,Male,Headache,Hypertension,Antibiotics,76,95,63,229,2023-02-27,Recovered
+P1067,61,Female,Cough,Flu,Antimalarial,129,103,104,289,2023-06-19,Improving
+P1068,49,Female,Cough,Typhoid,Antibiotics,143,166,119,166,2023-11-04,Recovered
+P1069,44,Female,Shortness of Breath,Anemia,Paracetamol,189,114,65,279,2023-06-20,Improving
+P1070,12,Female,Shortness of Breath,Typhoid,Antimalarial,98,128,98,124,2023-05-06,Improving
+P1071,67,Female,Dizziness,Typhoid,Inhaler,158,134,112,259,2023-11-11,Improving
+P1072,89,Female,Shortness of Breath,Diabetes,Insulin,159,118,92,273,2023-05-11,Recovered
+P1073,4,Female,Cough,Typhoid,Insulin,180,171,113,244,2023-04-08,Recovered
+P1074,11,Female,Chest Pain,Covid-19,Vitamin Supplements,177,118,89,289,2023-03-16,Improving
+P1075,41,Female,Chest Pain,Diabetes,Insulin,141,129,60,132,2023-03-03,Improving
+P1076,78,Male,Shortness of Breath,Anemia,Vitamin Supplements,169,123,116,165,2023-07-13,Critical
+P1077,25,Male,Fever,Diabetes,Antibiotics,177,168,108,128,2023-12-03,Critical
+P1078,17,Male,Chest Pain,Covid-19,Vitamin Supplements,77,177,110,276,2023-08-24,Critical
+P1079,40,Male,Chest Pain,Typhoid,Antibiotics,168,136,113,281,2023-01-20,Critical
+P1080,42,Female,Cough,Flu,Vitamin Supplements,130,145,83,230,2023-02-14,Critical
+P1081,16,Female,Fatigue,Asthma,Vitamin Supplements,160,143,74,192,2023-11-25,Recovered
+P1082,6,Male,Fatigue,Hypertension,Insulin,138,148,63,264,2023-11-20,Critical
+P1083,39,Female,Nausea,Hypertension,Vitamin Supplements,103,106,62,268,2023-07-22,Improving
+P1084,46,Male,Cough,Flu,Inhaler,158,117,93,182,2023-01-23,Recovered
+P1085,55,Female,Chest Pain,Diabetes,Paracetamol,142,92,84,244,2023-05-21,Critical
+P1086,85,Male,Dizziness,Covid-19,Insulin,78,164,79,152,2023-01-19,Improving
+P1087,76,Female,Fatigue,Diabetes,Inhaler,77,151,71,176,2023-11-07,Improving
+P1088,86,Female,Fatigue,Diabetes,Antimalarial,136,106,68,285,2023-02-05,Improving
+P1089,1,Male,Nausea,Hypertension,Antibiotics,183,90,98,249,2023-07-28,Critical
+P1090,30,Male,Dizziness,Covid-19,Antibiotics,185,155,101,134,2023-11-15,Improving
+P1091,35,Male,Nausea,Malaria,Vitamin Supplements,70,98,81,236,2023-12-25,Recovered
+P1092,62,Male,Cough,Typhoid,Paracetamol,165,111,95,197,2023-01-09,Critical
+P1093,32,Male,Cough,Anemia,Antimalarial,117,113,90,273,2023-07-06,Recovered
+P1094,8,Male,Fatigue,Covid-19,Antimalarial,155,138,69,223,2023-11-14,Critical
+P1095,2,Female,Nausea,Hypertension,Inhaler,107,151,109,190,2023-01-23,Recovered
+P1096,31,Female,Nausea,Anemia,Insulin,74,137,77,179,2023-04-04,Improving
+P1097,26,Female,Dizziness,Covid-19,Paracetamol,126,138,97,267,2023-03-30,Improving
+P1098,83,Female,Fever,Hypertension,Antimalarial,100,106,114,277,2023-01-04,Improving
+P1099,33,Female,Headache,Anemia,Vitamin Supplements,152,174,63,276,2023-10-19,Improving
+P1100,24,Male,Fever,Hypertension,Vitamin Supplements,174,140,95,227,2023-12-18,Recovered
+P1101,31,Male,Cough,Diabetes,Insulin,193,166,114,242,2023-05-29,Recovered
+P1102,73,Female,Nausea,Hypertension,Insulin,142,160,112,153,2023-11-07,Critical
+P1103,16,Male,Headache,Asthma,Antimalarial,133,134,116,254,2023-11-04,Recovered
+P1104,66,Male,Chest Pain,Flu,Inhaler,153,136,82,279,2023-02-09,Recovered
+P1105,34,Female,Chest Pain,Anemia,Vitamin Supplements,168,168,112,232,2023-10-01,Recovered
+P1106,12,Male,Fever,Hypertension,Insulin,161,160,85,289,2023-02-19,Critical
+P1107,73,Male,Fatigue,Asthma,Insulin,127,163,92,206,2023-07-12,Critical
+P1108,71,Female,Fatigue,Asthma,Vitamin Supplements,169,102,86,168,2023-02-07,Improving
+P1109,20,Male,Chest Pain,Anemia,Insulin,118,103,86,281,2023-01-19,Improving
+P1110,53,Male,Chest Pain,Diabetes,Antimalarial,92,128,80,281,2023-06-14,Improving
+P1111,19,Male,Cough,Typhoid,Insulin,100,166,85,277,2023-07-27,Improving
+P1112,89,Female,Cough,Typhoid,Paracetamol,154,141,105,187,2023-05-06,Critical
+P1113,52,Female,Shortness of Breath,Hypertension,Antibiotics,99,176,97,202,2023-12-03,Improving
+P1114,9,Male,Dizziness,Diabetes,Vitamin Supplements,102,117,66,124,2023-09-17,Recovered
+P1115,63,Male,Fever,Malaria,Vitamin Supplements,102,153,107,233,2023-05-18,Improving
+P1116,18,Male,Fatigue,Diabetes,Paracetamol,132,100,93,275,2023-12-22,Recovered
+P1117,43,Male,Dizziness,Diabetes,Insulin,154,117,66,169,2023-11-14,Critical
+P1118,67,Female,Fever,Flu,Antibiotics,117,104,91,244,2023-02-11,Recovered
+P1119,21,Male,Chest Pain,Anemia,Antimalarial,91,118,86,176,2023-08-21,Improving
+P1120,18,Male,Headache,Hypertension,Antimalarial,146,175,110,195,2023-12-14,Critical
+P1121,3,Female,Shortness of Breath,Asthma,Antibiotics,73,101,86,282,2023-04-07,Critical
+P1122,22,Female,Fever,Typhoid,Inhaler,126,125,75,230,2023-05-09,Recovered
+P1123,88,Male,Fever,Malaria,Inhaler,173,170,93,139,2023-04-01,Recovered
+P1124,89,Male,Fatigue,Flu,Insulin,187,118,94,281,2023-03-30,Improving
+P1125,67,Female,Cough,Flu,Antibiotics,70,159,71,228,2023-07-27,Recovered
+P1126,26,Male,Nausea,Covid-19,Vitamin Supplements,195,154,94,264,2023-03-04,Critical
+P1127,24,Female,Headache,Typhoid,Antimalarial,115,155,94,170,2023-11-14,Improving
+P1128,35,Female,Fever,Malaria,Insulin,199,167,89,247,2023-09-02,Recovered
+P1129,84,Female,Headache,Malaria,Insulin,160,145,60,293,2023-07-02,Improving
+P1130,37,Female,Nausea,Hypertension,Insulin,198,102,70,205,2023-10-30,Improving
+P1131,17,Male,Chest Pain,Hypertension,Antibiotics,173,162,112,204,2023-07-17,Improving
+P1132,63,Male,Chest Pain,Hypertension,Antimalarial,93,123,98,247,2023-03-09,Critical
+P1133,83,Male,Dizziness,Anemia,Paracetamol,160,119,91,203,2023-03-23,Improving
+P1134,71,Male,Fatigue,Diabetes,Insulin,105,173,84,241,2023-08-10,Critical
+P1135,71,Female,Fever,Covid-19,Antimalarial,129,143,117,250,2023-07-03,Critical
+P1136,27,Male,Fatigue,Covid-19,Insulin,193,115,86,219,2023-06-17,Improving
+P1137,68,Female,Nausea,Diabetes,Antimalarial,171,166,97,249,2023-09-14,Critical
+P1138,38,Female,Headache,Hypertension,Antimalarial,159,118,77,294,2023-03-08,Recovered
+P1139,6,Female,Chest Pain,Diabetes,Vitamin Supplements,148,118,63,217,2023-06-09,Critical
+P1140,49,Female,Dizziness,Flu,Vitamin Supplements,188,113,106,290,2023-06-05,Improving
+P1141,2,Male,Headache,Diabetes,Vitamin Supplements,184,157,61,144,2023-09-04,Improving
+P1142,58,Female,Headache,Flu,Paracetamol,119,161,64,195,2023-08-01,Critical
+P1143,17,Female,Headache,Anemia,Antimalarial,167,122,113,247,2023-01-28,Improving
+P1144,24,Female,Fatigue,Hypertension,Inhaler,136,98,115,175,2023-09-16,Improving
+P1145,41,Female,Nausea,Flu,Inhaler,97,101,102,199,2023-08-01,Critical
+P1146,1,Male,Fatigue,Diabetes,Antibiotics,136,105,100,247,2023-10-28,Critical
+P1147,67,Female,Cough,Flu,Vitamin Supplements,108,110,117,185,2023-03-26,Critical
+P1148,69,Female,Dizziness,Hypertension,Paracetamol,79,130,79,142,2023-04-12,Improving
+P1149,65,Male,Fever,Hypertension,Insulin,163,154,105,287,2023-04-19,Critical
+P1150,48,Male,Shortness of Breath,Asthma,Antibiotics,187,156,94,215,2023-08-01,Critical
+P1151,17,Female,Chest Pain,Asthma,Antimalarial,90,124,80,288,2023-01-30,Recovered
+P1152,60,Female,Chest Pain,Flu,Vitamin Supplements,134,165,80,150,2023-12-07,Improving
+P1153,63,Male,Headache,Malaria,Paracetamol,97,131,117,153,2023-07-06,Recovered
+P1154,61,Female,Dizziness,Anemia,Insulin,162,108,114,273,2023-12-09,Critical
+P1155,1,Male,Headache,Hypertension,Antibiotics,141,152,106,269,2023-08-23,Critical
+P1156,85,Female,Fever,Typhoid,Antibiotics,193,169,104,129,2023-02-08,Improving
+P1157,43,Male,Nausea,Covid-19,Inhaler,145,155,69,141,2023-01-15,Critical
+P1158,17,Female,Cough,Covid-19,Inhaler,75,178,73,289,2023-12-19,Critical
+P1159,77,Female,Fever,Covid-19,Antibiotics,72,165,75,176,2023-01-09,Recovered
+P1160,25,Female,Chest Pain,Asthma,Antibiotics,196,153,110,298,2023-11-26,Improving
+P1161,34,Male,Chest Pain,Covid-19,Paracetamol,165,173,92,194,2023-01-13,Recovered
+P1162,69,Male,Fatigue,Anemia,Antibiotics,161,114,99,236,2023-01-19,Critical
+P1163,85,Male,Chest Pain,Malaria,Insulin,108,125,95,256,2023-08-22,Recovered
+P1164,31,Male,Chest Pain,Asthma,Paracetamol,149,112,106,220,2023-09-20,Recovered
+P1165,21,Female,Nausea,Typhoid,Antibiotics,172,174,87,132,2023-09-30,Recovered
+P1166,59,Female,Dizziness,Malaria,Paracetamol,197,137,103,166,2023-10-09,Improving
+P1167,18,Male,Headache,Covid-19,Antimalarial,142,107,89,282,2023-01-25,Critical
+P1168,72,Male,Headache,Asthma,Antimalarial,168,164,108,128,2023-01-10,Improving
+P1169,60,Male,Nausea,Covid-19,Insulin,114,92,66,225,2023-10-30,Improving
+P1170,86,Female,Cough,Covid-19,Antimalarial,154,107,62,154,2023-04-06,Improving
+P1171,32,Male,Chest Pain,Covid-19,Paracetamol,158,96,110,266,2023-04-20,Critical
+P1172,50,Male,Dizziness,Typhoid,Vitamin Supplements,127,90,90,194,2023-08-27,Recovered
+P1173,80,Female,Chest Pain,Hypertension,Antibiotics,107,102,69,280,2023-11-07,Critical
+P1174,34,Male,Chest Pain,Asthma,Insulin,148,116,111,216,2023-12-08,Improving
+P1175,35,Male,Cough,Anemia,Inhaler,156,144,84,249,2023-07-12,Recovered
+P1176,18,Male,Nausea,Flu,Paracetamol,120,97,81,196,2023-10-22,Critical
+P1177,15,Female,Fatigue,Hypertension,Inhaler,98,110,74,190,2023-05-25,Critical
+P1178,30,Female,Chest Pain,Flu,Vitamin Supplements,158,113,81,162,2023-12-21,Critical
+P1179,14,Male,Headache,Diabetes,Vitamin Supplements,72,155,105,189,2023-04-13,Improving
+P1180,64,Male,Fatigue,Anemia,Antimalarial,153,106,102,214,2023-06-20,Recovered
+P1181,82,Female,Nausea,Flu,Insulin,187,120,101,142,2023-04-24,Improving
+P1182,83,Female,Shortness of Breath,Malaria,Insulin,149,118,85,188,2023-10-20,Improving
+P1183,32,Male,Fatigue,Diabetes,Inhaler,163,122,112,187,2023-04-03,Critical
+P1184,39,Female,Headache,Hypertension,Paracetamol,178,178,119,235,2023-11-16,Recovered
+P1185,43,Male,Fever,Covid-19,Paracetamol,192,156,98,275,2023-04-10,Recovered
+P1186,13,Female,Chest Pain,Malaria,Vitamin Supplements,153,143,82,245,2023-08-12,Critical
+P1187,5,Male,Fever,Anemia,Antibiotics,166,150,97,165,2023-06-11,Recovered
+P1188,76,Female,Fatigue,Malaria,Inhaler,130,133,86,237,2023-06-15,Recovered
+P1189,83,Male,Chest Pain,Hypertension,Insulin,165,151,84,205,2023-05-24,Critical
+P1190,55,Female,Headache,Anemia,Inhaler,180,124,66,249,2023-06-24,Recovered
+P1191,77,Female,Headache,Diabetes,Paracetamol,118,161,78,239,2023-08-26,Improving
+P1192,81,Male,Fatigue,Diabetes,Insulin,134,169,69,121,2023-11-07,Critical
+P1193,35,Female,Nausea,Asthma,Insulin,94,158,74,226,2023-07-06,Critical
+P1194,66,Female,Shortness of Breath,Anemia,Paracetamol,85,119,114,136,2023-08-17,Recovered
+P1195,55,Male,Cough,Asthma,Antimalarial,84,130,81,163,2023-05-30,Critical
+P1196,62,Female,Nausea,Asthma,Paracetamol,188,145,118,120,2023-01-13,Improving
+P1197,75,Male,Cough,Hypertension,Antibiotics,109,100,84,226,2023-06-27,Critical
+P1198,29,Female,Fever,Flu,Antibiotics,128,158,99,145,2023-08-21,Recovered
+P1199,89,Female,Chest Pain,Hypertension,Antibiotics,146,170,85,245,2023-06-27,Recovered
+P1200,44,Male,Cough,Diabetes,Inhaler,163,140,101,225,2023-05-26,Recovered
+P1201,9,Male,Cough,Malaria,Insulin,188,127,61,244,2023-03-07,Critical
+P1202,7,Male,Headache,Covid-19,Paracetamol,173,149,82,236,2023-04-04,Recovered
+P1203,84,Female,Shortness of Breath,Hypertension,Paracetamol,199,131,99,254,2023-06-25,Critical
+P1204,30,Male,Fatigue,Covid-19,Antibiotics,143,98,87,259,2023-10-25,Improving
+P1205,2,Female,Shortness of Breath,Malaria,Antibiotics,155,172,81,269,2023-09-29,Recovered
+P1206,88,Female,Dizziness,Diabetes,Vitamin Supplements,76,162,64,270,2023-04-05,Critical
+P1207,24,Female,Cough,Anemia,Paracetamol,150,122,94,242,2023-10-13,Improving
+P1208,76,Female,Chest Pain,Malaria,Antibiotics,142,110,62,208,2023-04-27,Recovered
+P1209,24,Male,Chest Pain,Covid-19,Vitamin Supplements,92,98,85,206,2023-05-13,Critical
+P1210,50,Male,Dizziness,Hypertension,Insulin,134,127,105,275,2023-10-28,Recovered
+P1211,13,Male,Dizziness,Flu,Vitamin Supplements,107,173,71,181,2023-02-24,Critical
+P1212,37,Female,Fatigue,Covid-19,Antibiotics,138,138,80,145,2023-12-04,Improving
+P1213,44,Female,Dizziness,Typhoid,Insulin,114,173,79,278,2023-10-01,Critical
+P1214,2,Female,Cough,Flu,Insulin,109,98,65,232,2023-01-03,Improving
+P1215,48,Male,Nausea,Diabetes,Insulin,183,99,84,278,2023-12-25,Critical
+P1216,48,Female,Cough,Covid-19,Antimalarial,110,98,71,222,2023-05-20,Improving
+P1217,4,Female,Cough,Asthma,Insulin,141,151,99,128,2023-07-26,Recovered
+P1218,9,Male,Fatigue,Typhoid,Paracetamol,147,114,106,189,2023-11-07,Recovered
+P1219,66,Female,Chest Pain,Diabetes,Antimalarial,111,110,62,253,2023-05-18,Recovered
+P1220,41,Female,Fever,Malaria,Inhaler,78,137,116,132,2023-05-17,Recovered
+P1221,45,Female,Chest Pain,Flu,Paracetamol,175,139,90,237,2023-11-24,Recovered
+P1222,18,Female,Nausea,Asthma,Inhaler,130,153,85,120,2023-06-15,Recovered
+P1223,67,Female,Headache,Hypertension,Antimalarial,92,117,107,199,2023-10-14,Recovered
+P1224,73,Female,Headache,Anemia,Paracetamol,167,137,83,193,2023-12-28,Recovered
+P1225,88,Female,Fatigue,Hypertension,Insulin,156,171,89,287,2023-12-05,Critical
+P1226,20,Male,Fever,Asthma,Antibiotics,146,139,70,172,2023-07-16,Improving
+P1227,65,Female,Chest Pain,Covid-19,Insulin,177,101,61,296,2023-02-17,Improving
+P1228,55,Female,Shortness of Breath,Anemia,Antimalarial,198,114,113,272,2023-08-08,Critical
+P1229,48,Male,Headache,Typhoid,Paracetamol,162,153,104,177,2023-02-18,Improving
+P1230,55,Female,Nausea,Typhoid,Vitamin Supplements,174,125,110,123,2023-06-15,Critical
+P1231,13,Female,Shortness of Breath,Malaria,Insulin,85,149,101,220,2023-06-21,Improving
+P1232,6,Male,Dizziness,Hypertension,Antimalarial,112,173,114,175,2023-11-17,Improving
+P1233,69,Female,Chest Pain,Asthma,Antimalarial,154,160,60,299,2023-11-16,Critical
+P1234,33,Female,Fever,Diabetes,Paracetamol,119,100,83,291,2023-12-23,Recovered
+P1235,48,Male,Fever,Covid-19,Vitamin Supplements,143,162,110,158,2023-04-29,Critical
+P1236,10,Female,Nausea,Malaria,Insulin,164,102,79,213,2023-08-22,Critical
+P1237,58,Female,Fatigue,Malaria,Paracetamol,176,123,118,223,2023-02-01,Critical
+P1238,23,Male,Fatigue,Malaria,Paracetamol,147,99,99,238,2023-03-25,Recovered
+P1239,69,Female,Cough,Typhoid,Insulin,193,155,77,210,2023-10-31,Improving
+P1240,44,Male,Nausea,Malaria,Vitamin Supplements,111,107,71,259,2023-02-24,Recovered
+P1241,41,Female,Fever,Typhoid,Inhaler,157,134,108,182,2023-10-07,Improving
+P1242,80,Female,Cough,Diabetes,Vitamin Supplements,184,111,66,165,2023-01-13,Improving
+P1243,22,Female,Chest Pain,Hypertension,Vitamin Supplements,77,169,75,174,2023-07-27,Critical
+P1244,30,Male,Chest Pain,Malaria,Antimalarial,138,140,83,212,2023-10-12,Recovered
+P1245,48,Male,Fatigue,Asthma,Inhaler,83,113,102,220,2023-07-12,Critical
+P1246,10,Male,Dizziness,Typhoid,Antimalarial,114,138,68,199,2023-05-10,Recovered
+P1247,47,Male,Cough,Anemia,Insulin,121,175,68,268,2023-06-29,Critical
+P1248,57,Female,Headache,Typhoid,Insulin,130,104,111,239,2023-03-08,Recovered
+P1249,85,Female,Fever,Asthma,Paracetamol,151,141,61,206,2023-12-10,Improving
+P1250,45,Female,Fatigue,Flu,Insulin,106,121,114,130,2023-06-21,Improving
+P1251,31,Female,Nausea,Asthma,Insulin,196,126,95,234,2023-12-11,Recovered
+P1252,56,Female,Dizziness,Anemia,Antibiotics,109,140,70,267,2023-02-25,Recovered
+P1253,74,Male,Dizziness,Flu,Antimalarial,113,178,77,242,2023-08-21,Critical
+P1254,50,Female,Cough,Anemia,Antimalarial,174,108,81,209,2023-01-18,Improving
+P1255,11,Female,Cough,Malaria,Insulin,134,139,63,258,2023-12-15,Recovered
+P1256,62,Male,Fever,Diabetes,Inhaler,79,144,78,223,2023-08-25,Improving
+P1257,60,Female,Headache,Malaria,Paracetamol,143,127,83,135,2023-05-28,Improving
+P1258,26,Female,Fatigue,Flu,Antimalarial,192,128,105,239,2023-08-19,Recovered
+P1259,71,Female,Chest Pain,Covid-19,Antimalarial,193,127,71,228,2023-02-06,Improving
+P1260,9,Male,Dizziness,Flu,Paracetamol,95,147,75,141,2023-01-17,Improving
+P1261,28,Male,Dizziness,Covid-19,Paracetamol,178,126,94,139,2023-02-11,Improving
+P1262,81,Male,Fatigue,Asthma,Paracetamol,189,99,72,231,2023-06-08,Recovered
+P1263,65,Male,Fever,Typhoid,Insulin,83,119,65,136,2023-10-03,Improving
+P1264,5,Female,Shortness of Breath,Covid-19,Antimalarial,180,110,90,198,2023-04-19,Improving
+P1265,89,Female,Headache,Covid-19,Antimalarial,94,134,117,298,2023-02-15,Recovered
+P1266,3,Female,Headache,Asthma,Antibiotics,77,178,102,226,2023-10-04,Improving
+P1267,69,Female,Fatigue,Malaria,Insulin,103,140,67,183,2023-02-17,Improving
+P1268,83,Female,Nausea,Typhoid,Vitamin Supplements,178,106,95,259,2023-03-20,Recovered
+P1269,31,Male,Cough,Flu,Insulin,128,162,102,281,2023-08-20,Critical
+P1270,57,Female,Headache,Anemia,Vitamin Supplements,170,170,96,175,2023-03-07,Recovered
+P1271,80,Male,Headache,Hypertension,Paracetamol,79,177,67,173,2023-08-25,Improving
+P1272,74,Female,Shortness of Breath,Hypertension,Vitamin Supplements,101,163,77,277,2023-10-24,Critical
+P1273,85,Male,Cough,Hypertension,Insulin,166,172,94,207,2023-09-11,Critical
+P1274,33,Female,Dizziness,Diabetes,Inhaler,102,167,71,242,2023-08-27,Critical
+P1275,66,Male,Dizziness,Hypertension,Inhaler,180,91,70,293,2023-11-12,Improving
+P1276,5,Male,Dizziness,Anemia,Antibiotics,182,150,78,239,2023-10-17,Critical
+P1277,75,Female,Cough,Anemia,Vitamin Supplements,111,119,89,170,2023-04-01,Improving
+P1278,85,Female,Headache,Asthma,Vitamin Supplements,126,90,90,161,2023-09-14,Recovered
+P1279,40,Female,Fever,Typhoid,Antibiotics,193,161,97,229,2023-05-05,Critical
+P1280,10,Female,Fever,Covid-19,Vitamin Supplements,137,129,76,176,2023-07-15,Improving
+P1281,54,Male,Nausea,Asthma,Vitamin Supplements,188,141,110,220,2023-08-30,Improving
+P1282,31,Male,Fever,Covid-19,Antimalarial,138,142,62,284,2023-08-14,Recovered
+P1283,78,Male,Chest Pain,Anemia,Vitamin Supplements,120,165,106,255,2023-01-21,Recovered
+P1284,18,Male,Cough,Diabetes,Insulin,88,176,114,236,2023-12-25,Critical
+P1285,86,Female,Cough,Diabetes,Vitamin Supplements,123,160,104,289,2023-06-12,Improving
+P1286,81,Female,Chest Pain,Typhoid,Antibiotics,152,166,75,275,2023-02-11,Improving
+P1287,34,Female,Fatigue,Flu,Paracetamol,105,154,102,138,2023-04-11,Recovered
+P1288,21,Male,Cough,Hypertension,Antibiotics,72,174,89,120,2023-06-11,Critical
+P1289,44,Female,Headache,Typhoid,Paracetamol,175,168,76,138,2023-01-16,Critical
+P1290,75,Female,Chest Pain,Flu,Vitamin Supplements,145,124,119,167,2023-09-11,Critical
+P1291,18,Female,Cough,Flu,Insulin,146,159,98,295,2023-12-31,Improving
+P1292,45,Female,Shortness of Breath,Covid-19,Antibiotics,191,118,66,290,2023-05-15,Critical
+P1293,54,Male,Fever,Hypertension,Vitamin Supplements,145,174,93,284,2023-08-24,Improving
+P1294,66,Female,Dizziness,Diabetes,Paracetamol,146,104,100,227,2023-04-19,Improving
+P1295,37,Female,Nausea,Typhoid,Antimalarial,131,150,86,185,2023-04-27,Recovered
+P1296,28,Male,Dizziness,Covid-19,Antibiotics,84,95,116,253,2023-02-22,Critical
+P1297,10,Female,Fatigue,Anemia,Antimalarial,101,173,104,227,2023-01-24,Critical
+P1298,6,Female,Fever,Covid-19,Antibiotics,134,128,116,284,2023-08-19,Recovered
+P1299,7,Male,Cough,Flu,Paracetamol,114,103,78,266,2023-08-02,Improving
+P1300,74,Female,Cough,Diabetes,Inhaler,114,146,104,227,2023-07-10,Critical
+P1301,1,Female,Chest Pain,Hypertension,Antimalarial,148,98,118,202,2023-06-27,Critical
+P1302,73,Male,Headache,Diabetes,Antibiotics,120,113,74,287,2023-01-25,Critical
+P1303,78,Male,Nausea,Covid-19,Vitamin Supplements,109,153,112,147,2023-01-23,Recovered
+P1304,37,Female,Shortness of Breath,Diabetes,Vitamin Supplements,87,168,87,161,2023-01-10,Improving
+P1305,73,Male,Fatigue,Diabetes,Paracetamol,84,127,68,253,2023-01-29,Recovered
+P1306,62,Female,Nausea,Hypertension,Paracetamol,73,160,78,175,2023-06-04,Improving
+P1307,74,Male,Cough,Flu,Insulin,188,142,74,252,2023-10-18,Recovered
+P1308,64,Male,Dizziness,Hypertension,Vitamin Supplements,191,178,72,192,2023-07-28,Recovered
+P1309,52,Male,Chest Pain,Anemia,Inhaler,170,136,104,192,2023-03-05,Improving
+P1310,48,Male,Fever,Flu,Vitamin Supplements,160,169,89,159,2023-11-27,Recovered
+P1311,13,Female,Cough,Diabetes,Antimalarial,151,176,104,207,2023-04-22,Recovered
+P1312,17,Female,Fever,Flu,Inhaler,153,95,64,219,2023-02-21,Critical
+P1313,2,Male,Dizziness,Diabetes,Paracetamol,95,128,104,272,2023-08-09,Critical
+P1314,71,Female,Nausea,Diabetes,Antimalarial,158,93,119,296,2023-12-02,Improving
+P1315,15,Female,Fatigue,Hypertension,Antimalarial,106,172,82,223,2023-12-18,Recovered
+P1316,76,Female,Shortness of Breath,Typhoid,Inhaler,143,147,97,198,2023-02-02,Improving
+P1317,83,Female,Nausea,Covid-19,Antibiotics,191,106,109,181,2023-07-24,Improving
+P1318,26,Male,Fever,Hypertension,Paracetamol,165,100,93,266,2023-02-12,Critical
+P1319,57,Male,Nausea,Typhoid,Vitamin Supplements,174,173,103,228,2023-09-12,Improving
+P1320,53,Female,Shortness of Breath,Covid-19,Insulin,156,114,65,164,2023-09-24,Improving
+P1321,12,Female,Fever,Covid-19,Antibiotics,153,135,96,140,2023-11-10,Critical
+P1322,7,Male,Dizziness,Asthma,Vitamin Supplements,77,149,117,137,2023-12-25,Critical
+P1323,57,Male,Cough,Diabetes,Vitamin Supplements,182,117,96,141,2023-03-19,Critical
+P1324,2,Male,Chest Pain,Anemia,Insulin,82,104,102,233,2023-03-07,Improving
+P1325,11,Male,Nausea,Anemia,Inhaler,189,111,93,265,2023-07-29,Recovered
+P1326,75,Male,Cough,Flu,Vitamin Supplements,95,127,99,298,2023-09-20,Critical
+P1327,53,Male,Fatigue,Diabetes,Antibiotics,147,94,112,173,2023-05-01,Recovered
+P1328,89,Male,Dizziness,Asthma,Insulin,73,173,60,189,2023-01-16,Improving
+P1329,25,Female,Shortness of Breath,Malaria,Vitamin Supplements,195,166,93,270,2023-08-08,Recovered
+P1330,78,Female,Nausea,Flu,Antibiotics,96,128,82,152,2023-11-23,Recovered
+P1331,51,Female,Headache,Typhoid,Inhaler,194,163,72,285,2023-04-25,Recovered
+P1332,78,Female,Chest Pain,Asthma,Paracetamol,183,95,104,240,2023-08-06,Recovered
+P1333,26,Female,Chest Pain,Asthma,Insulin,92,160,100,270,2023-04-11,Critical
+P1334,64,Male,Dizziness,Diabetes,Paracetamol,168,135,70,264,2023-04-30,Improving
+P1335,29,Male,Cough,Anemia,Insulin,93,148,87,163,2023-07-01,Critical
+P1336,32,Male,Dizziness,Typhoid,Inhaler,184,151,108,143,2023-10-10,Improving
+P1337,56,Female,Dizziness,Malaria,Inhaler,107,90,63,165,2023-09-06,Recovered
+P1338,55,Male,Fever,Asthma,Insulin,90,115,72,207,2023-10-04,Improving
+P1339,38,Male,Cough,Diabetes,Insulin,169,102,71,173,2023-04-09,Improving
+P1340,81,Female,Cough,Typhoid,Inhaler,91,109,64,150,2023-08-07,Improving
+P1341,57,Female,Nausea,Asthma,Antimalarial,154,98,61,170,2023-07-17,Critical
+P1342,24,Male,Headache,Asthma,Vitamin Supplements,73,164,70,129,2023-10-06,Improving
+P1343,84,Female,Cough,Diabetes,Vitamin Supplements,113,168,107,279,2023-02-03,Recovered
+P1344,82,Female,Nausea,Diabetes,Antimalarial,155,126,115,180,2023-10-14,Recovered
+P1345,78,Male,Chest Pain,Flu,Vitamin Supplements,116,134,79,157,2023-06-03,Critical
+P1346,6,Female,Dizziness,Flu,Insulin,139,120,103,223,2023-04-16,Improving
+P1347,89,Male,Nausea,Asthma,Antimalarial,129,103,79,237,2023-05-18,Recovered
+P1348,14,Male,Chest Pain,Typhoid,Inhaler,120,175,73,143,2023-11-13,Recovered
+P1349,74,Male,Shortness of Breath,Malaria,Insulin,179,116,104,146,2023-11-08,Improving
+P1350,31,Male,Chest Pain,Malaria,Inhaler,148,114,119,238,2023-05-20,Improving
+P1351,57,Female,Fever,Asthma,Paracetamol,107,144,90,172,2023-12-10,Critical
+P1352,79,Female,Nausea,Diabetes,Antibiotics,137,106,80,262,2023-09-09,Improving
+P1353,15,Female,Fatigue,Hypertension,Vitamin Supplements,185,91,74,299,2023-08-04,Recovered
+P1354,48,Male,Fatigue,Flu,Antimalarial,121,115,100,223,2023-02-23,Improving
+P1355,83,Female,Chest Pain,Malaria,Antimalarial,73,94,117,204,2023-12-13,Critical
+P1356,58,Female,Nausea,Typhoid,Antimalarial,192,101,85,240,2023-12-20,Critical
+P1357,12,Female,Shortness of Breath,Hypertension,Antibiotics,121,170,113,154,2023-04-09,Recovered
+P1358,7,Female,Fatigue,Asthma,Inhaler,159,102,97,197,2023-09-25,Recovered
+P1359,81,Male,Fever,Malaria,Vitamin Supplements,100,168,106,184,2023-03-23,Critical
+P1360,3,Female,Shortness of Breath,Diabetes,Vitamin Supplements,127,120,66,261,2023-01-29,Recovered
+P1361,83,Female,Fatigue,Asthma,Vitamin Supplements,132,149,90,204,2023-01-20,Improving
+P1362,76,Male,Cough,Covid-19,Inhaler,156,145,72,254,2023-09-29,Recovered
+P1363,57,Male,Cough,Typhoid,Insulin,83,113,98,233,2023-01-15,Improving
+P1364,88,Male,Cough,Anemia,Vitamin Supplements,120,123,68,293,2023-09-24,Recovered
+P1365,57,Male,Chest Pain,Flu,Inhaler,111,93,62,208,2023-04-04,Improving
+P1366,49,Female,Dizziness,Covid-19,Inhaler,183,177,80,205,2023-12-11,Critical
+P1367,52,Male,Dizziness,Hypertension,Antimalarial,72,137,82,174,2023-08-25,Recovered
+P1368,89,Male,Chest Pain,Anemia,Insulin,106,172,73,227,2023-11-16,Recovered
+P1369,68,Male,Nausea,Malaria,Antibiotics,134,100,85,225,2023-05-05,Improving
+P1370,44,Male,Shortness of Breath,Flu,Antibiotics,75,162,107,186,2023-11-10,Critical
+P1371,39,Female,Fatigue,Hypertension,Paracetamol,148,117,89,237,2023-08-20,Recovered
+P1372,43,Male,Headache,Diabetes,Inhaler,168,168,93,124,2023-09-20,Improving
+P1373,26,Male,Nausea,Asthma,Antibiotics,111,135,77,223,2023-02-08,Critical
+P1374,29,Male,Dizziness,Diabetes,Inhaler,184,158,64,221,2023-03-07,Improving
+P1375,46,Female,Headache,Flu,Inhaler,140,143,90,123,2023-04-07,Critical
+P1376,47,Female,Nausea,Flu,Inhaler,75,139,64,217,2023-02-20,Recovered
+P1377,3,Male,Dizziness,Hypertension,Inhaler,180,100,60,219,2023-08-24,Recovered
+P1378,77,Female,Headache,Diabetes,Insulin,115,174,68,274,2023-07-04,Critical
+P1379,18,Female,Fatigue,Hypertension,Antimalarial,185,93,69,136,2023-12-07,Recovered
+P1380,28,Female,Headache,Flu,Antibiotics,183,122,111,154,2023-07-14,Critical
+P1381,19,Male,Headache,Hypertension,Antimalarial,72,116,88,239,2023-02-27,Recovered
+P1382,48,Male,Nausea,Flu,Vitamin Supplements,85,173,79,203,2023-11-02,Critical
+P1383,4,Male,Shortness of Breath,Typhoid,Vitamin Supplements,164,130,67,222,2023-12-23,Critical
+P1384,77,Male,Fatigue,Asthma,Paracetamol,84,163,104,185,2023-01-17,Critical
+P1385,27,Male,Dizziness,Covid-19,Inhaler,143,133,93,192,2023-06-23,Recovered
+P1386,64,Female,Fatigue,Malaria,Paracetamol,79,99,67,218,2023-02-08,Recovered
+P1387,73,Female,Fever,Covid-19,Inhaler,111,109,112,250,2023-03-12,Recovered
+P1388,1,Male,Nausea,Flu,Antibiotics,195,139,71,134,2023-10-18,Critical
+P1389,3,Female,Headache,Anemia,Antibiotics,161,171,119,280,2023-03-09,Recovered
+P1390,15,Female,Shortness of Breath,Hypertension,Vitamin Supplements,174,158,115,289,2023-06-20,Recovered
+P1391,38,Male,Headache,Asthma,Antibiotics,142,137,68,154,2023-10-01,Recovered
+P1392,42,Female,Cough,Hypertension,Vitamin Supplements,119,109,74,268,2023-12-24,Critical
+P1393,46,Male,Cough,Hypertension,Antibiotics,166,99,101,125,2023-11-20,Improving
+P1394,46,Female,Fatigue,Hypertension,Vitamin Supplements,133,147,114,122,2023-12-25,Recovered
+P1395,61,Female,Dizziness,Anemia,Vitamin Supplements,190,174,97,294,2023-11-27,Improving
+P1396,8,Female,Cough,Covid-19,Antibiotics,97,92,78,284,2023-02-23,Recovered
+P1397,24,Female,Cough,Typhoid,Vitamin Supplements,93,155,109,140,2023-06-12,Critical
+P1398,65,Male,Chest Pain,Covid-19,Antibiotics,113,106,83,126,2023-12-31,Improving
+P1399,74,Female,Chest Pain,Diabetes,Vitamin Supplements,176,143,74,260,2023-10-01,Critical
+P1400,66,Female,Fatigue,Hypertension,Antimalarial,94,91,77,215,2023-01-21,Critical
+P1401,46,Male,Fever,Anemia,Antibiotics,127,116,89,290,2023-05-10,Critical
+P1402,58,Male,Shortness of Breath,Hypertension,Insulin,75,145,93,221,2023-03-02,Recovered
+P1403,19,Female,Fever,Diabetes,Antimalarial,120,171,99,198,2023-11-27,Recovered
+P1404,84,Female,Nausea,Anemia,Paracetamol,121,169,87,174,2023-06-12,Critical
+P1405,56,Male,Chest Pain,Typhoid,Antibiotics,183,97,60,184,2023-02-21,Critical
+P1406,36,Male,Headache,Malaria,Paracetamol,101,133,82,238,2023-10-02,Critical
+P1407,62,Male,Fever,Malaria,Antimalarial,126,158,115,259,2023-02-22,Critical
+P1408,66,Female,Dizziness,Diabetes,Antimalarial,139,164,94,294,2023-09-06,Improving
+P1409,60,Female,Nausea,Flu,Vitamin Supplements,110,100,62,165,2023-01-09,Improving
+P1410,73,Male,Fever,Diabetes,Insulin,127,97,100,197,2023-06-24,Improving
+P1411,22,Male,Fatigue,Hypertension,Paracetamol,95,112,80,287,2023-02-18,Recovered
+P1412,65,Male,Headache,Asthma,Vitamin Supplements,97,158,61,261,2023-05-28,Recovered
+P1413,8,Male,Fatigue,Covid-19,Vitamin Supplements,142,132,94,228,2023-12-02,Critical
+P1414,37,Female,Chest Pain,Covid-19,Antimalarial,194,169,79,134,2023-07-22,Recovered
+P1415,67,Female,Chest Pain,Covid-19,Insulin,173,149,76,258,2023-05-13,Improving
+P1416,29,Female,Nausea,Covid-19,Insulin,161,130,73,291,2023-03-13,Critical
+P1417,48,Female,Chest Pain,Asthma,Inhaler,72,169,114,155,2023-01-30,Recovered
+P1418,14,Male,Dizziness,Anemia,Inhaler,166,135,106,297,2023-05-18,Improving
+P1419,22,Female,Nausea,Malaria,Insulin,81,158,74,250,2023-11-29,Recovered
+P1420,67,Female,Headache,Covid-19,Antimalarial,72,170,80,133,2023-11-18,Critical
+P1421,51,Female,Fatigue,Diabetes,Antimalarial,112,154,65,159,2023-07-03,Improving
+P1422,46,Female,Shortness of Breath,Hypertension,Paracetamol,143,173,61,192,2023-08-14,Improving
+P1423,6,Female,Headache,Diabetes,Vitamin Supplements,168,175,96,158,2023-09-26,Improving
+P1424,61,Male,Dizziness,Flu,Antimalarial,117,97,90,203,2023-04-09,Critical
+P1425,78,Male,Fever,Malaria,Inhaler,102,165,63,180,2023-02-28,Improving
+P1426,83,Male,Dizziness,Hypertension,Insulin,170,106,74,164,2023-06-11,Recovered
+P1427,1,Female,Shortness of Breath,Diabetes,Inhaler,101,142,106,197,2023-09-17,Critical
+P1428,65,Female,Nausea,Hypertension,Antimalarial,79,155,74,224,2023-01-27,Improving
+P1429,49,Female,Cough,Flu,Insulin,154,132,75,202,2023-01-12,Recovered
+P1430,89,Male,Headache,Malaria,Antimalarial,119,146,111,127,2023-04-19,Recovered
+P1431,18,Female,Cough,Hypertension,Antimalarial,74,107,110,213,2023-06-26,Recovered
+P1432,28,Female,Fatigue,Diabetes,Antibiotics,166,177,119,255,2023-11-04,Improving
+P1433,42,Male,Chest Pain,Covid-19,Paracetamol,159,97,94,244,2023-10-13,Critical
+P1434,35,Male,Fatigue,Malaria,Inhaler,129,165,80,291,2023-09-03,Improving
+P1435,61,Female,Fatigue,Asthma,Vitamin Supplements,189,160,76,166,2023-01-29,Critical
+P1436,48,Female,Dizziness,Flu,Inhaler,95,127,74,160,2023-05-04,Improving
+P1437,87,Female,Fever,Anemia,Inhaler,179,162,104,204,2023-04-26,Improving
+P1438,88,Female,Shortness of Breath,Diabetes,Vitamin Supplements,118,106,62,134,2023-02-20,Critical
+P1439,1,Female,Chest Pain,Malaria,Antibiotics,149,128,117,173,2023-11-16,Improving
+P1440,85,Female,Fatigue,Malaria,Antimalarial,117,137,70,202,2023-04-20,Recovered
+P1441,82,Male,Headache,Malaria,Vitamin Supplements,92,109,100,201,2023-05-29,Critical
+P1442,87,Male,Cough,Hypertension,Insulin,124,168,117,131,2023-01-09,Critical
+P1443,89,Female,Headache,Diabetes,Insulin,187,91,69,172,2023-02-05,Improving
+P1444,59,Female,Headache,Typhoid,Antimalarial,164,144,92,270,2023-04-10,Improving
+P1445,14,Male,Dizziness,Asthma,Paracetamol,98,156,77,225,2023-08-11,Recovered
+P1446,27,Female,Cough,Asthma,Inhaler,94,148,65,272,2023-07-04,Improving
+P1447,41,Female,Nausea,Hypertension,Antibiotics,81,122,105,179,2023-03-20,Improving
+P1448,55,Male,Shortness of Breath,Covid-19,Inhaler,136,154,80,252,2023-05-22,Improving
+P1449,26,Male,Headache,Hypertension,Paracetamol,82,177,88,121,2023-12-01,Critical
+P1450,4,Female,Nausea,Flu,Insulin,88,105,84,186,2023-09-11,Recovered
+P1451,30,Male,Dizziness,Flu,Antibiotics,165,99,90,246,2023-01-18,Improving
+P1452,40,Female,Fever,Asthma,Antibiotics,171,105,107,193,2023-11-23,Critical
+P1453,26,Male,Nausea,Flu,Vitamin Supplements,87,155,98,159,2023-10-24,Recovered
+P1454,26,Male,Chest Pain,Flu,Antibiotics,74,99,60,183,2023-05-12,Critical
+P1455,5,Female,Fever,Typhoid,Antimalarial,177,103,64,178,2023-11-27,Improving
+P1456,14,Male,Headache,Asthma,Paracetamol,199,126,105,268,2023-11-12,Recovered
+P1457,18,Male,Fatigue,Covid-19,Insulin,108,114,91,198,2023-12-22,Improving
+P1458,55,Female,Headache,Malaria,Vitamin Supplements,77,102,108,220,2023-11-02,Improving
+P1459,61,Male,Shortness of Breath,Malaria,Antimalarial,98,136,69,282,2023-03-04,Improving
+P1460,65,Male,Cough,Typhoid,Insulin,117,179,112,247,2023-10-24,Recovered
+P1461,45,Female,Headache,Hypertension,Antibiotics,130,144,84,125,2023-12-25,Recovered
+P1462,1,Female,Fatigue,Malaria,Antibiotics,194,165,60,197,2023-12-14,Improving
+P1463,83,Male,Headache,Covid-19,Vitamin Supplements,86,155,112,154,2023-02-23,Recovered
+P1464,42,Female,Fatigue,Malaria,Paracetamol,176,128,73,161,2023-02-21,Critical
+P1465,3,Male,Cough,Asthma,Antibiotics,175,161,92,159,2023-10-24,Recovered
+P1466,62,Male,Cough,Flu,Vitamin Supplements,70,177,67,252,2023-03-24,Critical
+P1467,71,Male,Cough,Asthma,Paracetamol,160,113,61,191,2023-01-22,Improving
+P1468,52,Male,Shortness of Breath,Asthma,Paracetamol,187,166,65,251,2023-04-02,Improving
+P1469,10,Male,Headache,Hypertension,Vitamin Supplements,122,152,99,178,2023-11-07,Recovered
+P1470,20,Female,Fever,Diabetes,Insulin,167,121,72,275,2023-11-29,Improving
+P1471,9,Female,Headache,Diabetes,Paracetamol,72,102,67,289,2023-09-03,Critical
+P1472,26,Male,Shortness of Breath,Hypertension,Antibiotics,156,114,83,146,2023-02-03,Improving
+P1473,77,Female,Chest Pain,Covid-19,Antibiotics,152,98,69,141,2023-06-05,Improving
+P1474,58,Female,Cough,Diabetes,Inhaler,86,138,93,125,2023-08-10,Improving
+P1475,31,Female,Nausea,Hypertension,Paracetamol,83,132,81,223,2023-05-04,Recovered
+P1476,80,Female,Chest Pain,Typhoid,Paracetamol,139,94,81,136,2023-03-25,Recovered
+P1477,67,Female,Fatigue,Typhoid,Antibiotics,127,111,98,130,2023-09-26,Critical
+P1478,16,Female,Fever,Covid-19,Insulin,73,100,117,185,2023-06-07,Improving
+P1479,57,Male,Nausea,Typhoid,Paracetamol,135,176,95,138,2023-02-28,Critical
+P1480,72,Male,Dizziness,Hypertension,Insulin,148,146,100,190,2023-04-21,Critical
+P1481,62,Male,Headache,Diabetes,Vitamin Supplements,186,131,65,273,2023-05-14,Critical
+P1482,16,Female,Nausea,Flu,Inhaler,136,132,74,122,2023-10-15,Recovered
+P1483,45,Male,Dizziness,Diabetes,Antimalarial,161,156,66,246,2023-09-22,Improving
+P1484,55,Male,Cough,Diabetes,Inhaler,188,112,86,257,2023-05-05,Improving
+P1485,57,Female,Dizziness,Hypertension,Vitamin Supplements,103,119,118,155,2023-05-23,Improving
+P1486,62,Female,Cough,Covid-19,Insulin,166,102,85,284,2023-06-19,Improving
+P1487,33,Male,Dizziness,Hypertension,Paracetamol,198,163,65,232,2023-07-06,Recovered
+P1488,72,Female,Fever,Typhoid,Paracetamol,95,144,72,220,2023-02-24,Critical
+P1489,33,Female,Shortness of Breath,Typhoid,Antimalarial,121,146,78,214,2023-01-19,Recovered
+P1490,12,Male,Headache,Covid-19,Antibiotics,167,92,62,272,2023-08-15,Recovered
+P1491,80,Male,Dizziness,Typhoid,Insulin,73,161,85,177,2023-03-17,Critical
+P1492,55,Female,Fatigue,Flu,Insulin,135,136,100,284,2023-05-26,Improving
+P1493,82,Female,Dizziness,Typhoid,Vitamin Supplements,70,130,67,122,2023-07-20,Recovered
+P1494,7,Female,Chest Pain,Flu,Insulin,162,137,62,284,2023-05-08,Critical
+P1495,50,Female,Nausea,Malaria,Inhaler,138,152,89,165,2023-12-06,Critical
+P1496,54,Female,Dizziness,Hypertension,Inhaler,139,155,114,174,2023-07-17,Improving
+P1497,76,Female,Chest Pain,Asthma,Paracetamol,126,121,78,228,2023-07-26,Improving
+P1498,61,Male,Cough,Asthma,Antibiotics,152,109,79,241,2023-12-22,Improving
+P1499,3,Male,Nausea,Diabetes,Vitamin Supplements,109,108,103,280,2023-03-03,Critical
